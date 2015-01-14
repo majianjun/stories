@@ -1,7 +1,7 @@
 
-# 幼稚的中学
+# 幼稚的少年
 
-- []()
+- [鱼](https://github.com/majianjun/stories/blob/master/misc/fish.md)
 
 
 # 模糊的大学
@@ -12,7 +12,7 @@
 
 ## 1999
 
-- [琥珀]
+- [琥珀](https://github.com/majianjun/stories/blob/master/misc/amber.md)
 
 ## 2014
 - [14年12月24日，平安夜](https://github.com/majianjun/stories/blob/master/2014/2014_12_24.md)
