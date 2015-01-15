@@ -34,3 +34,4 @@
 - [15年1月14日，下午](https://github.com/majianjun/stories/blob/master/2015/2015_01_14_15.md)
 - [15年1月14日，念老舅](https://github.com/majianjun/stories/blob/master/2015/2015_01_14_18.md)
 - [15年1月14日，晚](https://github.com/majianjun/stories/blob/master/2015/2015_01_14_22.md)
+- [15年1月15日，早](https://github.com/majianjun/stories/blob/master/2015/2015_01_15_08.md)
