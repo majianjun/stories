@@ -1,11 +1,11 @@
 
-# 幼稚的少年
+# 少年
 
 - [鱼](https://github.com/majianjun/stories/blob/master/misc/fish.md)
 - [思考](https://github.com/majianjun/stories/blob/master/misc/idea01.md)
 
 
-# 模糊的大学
+# 大学
 
 - [四年](https://github.com/majianjun/stories/blob/master/misc/four_years.md)
 
