@@ -17,6 +17,8 @@
 - [琥珀](https://github.com/majianjun/stories/blob/master/misc/amber.md)
 
 ## 2014
+
+- [14年12月13日，聚会](https://github.com/majianjun/stories/blob/master/2014/2014_12_13_10.md)
 - [14年12月24日，平安夜](https://github.com/majianjun/stories/blob/master/2014/2014_12_24.md)
 
 ## 2015
@@ -37,3 +39,6 @@
 - [15年1月14日，晚](https://github.com/majianjun/stories/blob/master/2015/2015_01_14_22.md)
 - [15年1月15日，早](https://github.com/majianjun/stories/blob/master/2015/2015_01_15_08.md)
 - [15年1月15日，午](https://github.com/majianjun/stories/blob/master/2015/2015_01_15_13.md)
+- [15年1月15日，晚](https://github.com/majianjun/stories/blob/master/2015/2015_01_15_22.md)
+- [15年1月16日，早](https://github.com/majianjun/stories/blob/master/2015/2015_01_16_07.md)
+- [15年1月16日，早](https://github.com/majianjun/stories/blob/master/2015/2015_01_16_08.md)
