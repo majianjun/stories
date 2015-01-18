@@ -10,6 +10,34 @@
 
 年少时总有很多乐趣，等我有空写出来：）
 
+读自己十八、九岁时写的幼稚的文字，是一次考古。当然，还有很多随风而去的。
+
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs03.md)
+- [山影行](https://github.com/majianjun/stories/blob/master/misc/hs04.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs05.md)
+- [风](https://github.com/majianjun/stories/blob/master/misc/hs06.md)
+- [蜡烛](https://github.com/majianjun/stories/blob/master/misc/hs07.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs08.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs09.md)
+- ["我"](https://github.com/majianjun/stories/blob/master/misc/hs10.md)
+- [早春](https://github.com/majianjun/stories/blob/master/misc/hs11.md)
+- [清明雨](https://github.com/majianjun/stories/blob/master/misc/hs12.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs13.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs14.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs15.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs16.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs17.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs18.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs19.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs20.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs21.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs22.md)
+- [彗星](https://github.com/majianjun/stories/blob/master/misc/hs23.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs24.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs25.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs26.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs27.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/hs28.md)
 - [鱼](https://github.com/majianjun/stories/blob/master/misc/fish.md)
 - [思考](https://github.com/majianjun/stories/blob/master/misc/idea01.md)
 
@@ -17,6 +45,7 @@
 # 大学
 
 - [四年](https://github.com/majianjun/stories/blob/master/misc/four_years.md)
+- [无题](https://github.com/majianjun/stories/blob/master/misc/plum.md)
 - [信](https://github.com/majianjun/stories/blob/master/misc/letters01.md)
 
 # 大学之后
@@ -36,7 +65,7 @@
 
 ## 2007
 
-
+- [野三坡](https://github.com/majianjun/stories/blob/master/2007/2015_01_17_11.md)
 
 ## 2014
 
