@@ -45,7 +45,7 @@
 # 大学
 
 - [四年](https://github.com/majianjun/stories/blob/master/misc/four_years.md)
-- [无题](https://github.com/majianjun/stories/blob/master/misc/plum.md)
+- [无题 - 赠友人](https://github.com/majianjun/stories/blob/master/misc/plum.md)
 - [信](https://github.com/majianjun/stories/blob/master/misc/letters01.md)
 
 # 大学之后
