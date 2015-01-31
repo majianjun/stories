@@ -61,6 +61,7 @@
 
 ## 2014
 
+- [灶膛的呼吸](https://github.com/majianjun/stories/blob/master/2014/2014_winter.md)
 - [14年12月13日，聚会](https://github.com/majianjun/stories/blob/master/2014/2014_12_13_10.md)
 - [14年12月24日，平安夜](https://github.com/majianjun/stories/blob/master/2014/2014_12_24.md)
 
